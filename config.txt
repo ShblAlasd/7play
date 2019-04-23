@@ -1,6 +1,6 @@
 token=NTY4NjM1MjE1OTI5NTQwNjE4.XLk89g.9hs99fGPGh3ZaQYJsSTGAnXq2gU
 owner=544438287838871552 
 prefix=1
-game=Mak Community
+game=Sound.
 stayinchannel=true
 songinstatus=false
